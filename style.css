@@ -1,0 +1,70 @@
+.container-fluid {
+  background-color: #e6e6e6;
+  margin: 15px;
+}
+.header {
+  background-color: black;
+  padding: 20px;
+
+  
+}
+a {
+  color: grey;
+}
+.logo {
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #66b3ff;
+  border-width: 10px;
+}
+.log1 {
+  font-size: 40px;
+  color: #66b3ff;
+  margin: 32px;
+}
+#banner {
+  padding: 50px;
+}
+#banner img {
+  border-radius: 50%;
+  height: auto;
+  max-width: 80%;
+}
+#banner p {
+  font-size: 30px;
+}
+.big {
+  font-size: 50px;
+  color: #66b3ff;
+}
+p {
+  font-size: 20px;
+}
+hr {
+  border: 1px grey solid;
+}
+.contact {
+  padding: 20px;
+}
+label {
+  display: block;
+}
+input {
+  padding: 10px;
+}
+.poem {
+  padding: 20px;
+  text-align: center;
+}
+.footer{
+  background-color: black;
+  padding: 20px;
+  
+  
+}
+.foo p{
+  font-size: 15px;
+}
+.social{
+ text-align: right;
+}
